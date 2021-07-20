@@ -9,7 +9,7 @@ Just click the generate color button to get a randomized color.
 ## Features
 
 - **Click to copy** - 
-When a color is generated, you can click on small circle to copy it to you to paste in your projects.
+When a color is generated, you can click on small circle to copy it to you use in your projects.
 
 ## Installation
 
