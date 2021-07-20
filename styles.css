@@ -44,7 +44,8 @@ img {
   flex-direction: column;
   background-color: var(--white);
   border-left: 1px solid var(--grey);
-  border-top-left-radius: 4px;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
 }
 
 .generator {
@@ -102,6 +103,7 @@ hr {
   background: black;
   margin: 10px;
   border-radius: 50%;
+  cursor: pointer;
 }
 
 .colors-group-child > p {
