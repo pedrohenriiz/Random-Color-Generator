@@ -13,4 +13,4 @@ When a color is generated, you can click on small circle to copy it to you use i
 
 ## Installation
 
-Clone this project or download it. After this, open the folder where you downloaded the project and open it on your favourite browser.
+Clone this project or download it. After this, open the folder where you downloaded the project and open it on your favorite browser.
